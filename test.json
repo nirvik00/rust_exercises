@@ -13,22 +13,7 @@
         },
         {
           "name": "FOCUS 48",
-          "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [5.081811472, 51.097611624],
-                [5.081811475, 51.097585214],
-                [5.081887485, 51.097585218],
-                [5.081887485, 51.097585326],
-                [5.081891704, 51.097585326],
-                [5.081891701, 51.097611628],
-                [5.081888483, 51.097611628],
-                [5.081845866, 51.097611626],
-                [5.081811472, 51.097611624]
-              ]
-            ]
-          },
+          "geometry": null,
           "level": {
             "name": "LEVEL 00 - CORTEZ 1",
             "elevation": { "unit": "Millimeters", "value": 0 }
@@ -40,15 +25,1571 @@
           "geometry": null,
           "level": {
             "name": "LEVEL 00 - CORTEZ 1",
-            "elevation": {
-              "unit": "Millimeters",
-              "value": 0
-            }
+            "elevation": { "unit": "Millimeters", "value": 0 }
           },
-          "area": {
-            "unit": "SquareMeters",
-            "value": 0
-          }
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "PRIMARY STAIR 01-01",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "HUB 01-02",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "TEAM LOUNGE 2",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 5",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "PRIMARY STAIR 01-22",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "COLLAB 1",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "2 PSN FOCUS 17",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 19",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "BREAKOUT 21",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "COLLAB 22",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "CIRCULATION 23",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "HIGH BENCH / TOUCHDOWN 25",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "BREAKOUT 26",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 24",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "HIGH BENCH / TOUCHDOWN 20",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 27",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 18",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 28",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "COLLAB 29",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "BREAKOUT 30",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "COLLAB 32",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "CIRCULATION 33",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 34",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 31",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "LOCKERS / CHANGING 38",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 39",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "HIGH BENCH / TOUCHDOWN 35",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "WORKSTATIONS 40",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 41",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "BREAKOUT 36",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "HUB 00-02",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081864214, 51.09761662],
+                [5.081864216, 51.097598577],
+                [5.08187161, 51.097598577],
+                [5.08187161, 51.097598487],
+                [5.081887326, 51.097598488],
+                [5.081887326, 51.097598578],
+                [5.081894205, 51.097598578],
+                [5.081894201, 51.097635556],
+                [5.081888767, 51.097635555],
+                [5.081888766, 51.097639244],
+                [5.081894201, 51.097639244],
+                [5.081894195, 51.097689582],
+                [5.081888761, 51.097689582],
+                [5.081888761, 51.097693271],
+                [5.081894195, 51.097693271],
+                [5.08189419, 51.097742709],
+                [5.08189419, 51.097743609],
+                [5.081888827, 51.097743609],
+                [5.081888826, 51.097747207],
+                [5.081894189, 51.097747208],
+                [5.081894189, 51.097748107],
+                [5.081894184, 51.097796693],
+                [5.081894327, 51.097796693],
+                [5.081894327, 51.097797568],
+                [5.081894184, 51.097797568],
+                [5.081894184, 51.097799435],
+                [5.081871588, 51.097799434],
+                [5.081871588, 51.097799209],
+                [5.081811451, 51.097799206],
+                [5.081811451, 51.097797632],
+                [5.081811523, 51.097797632],
+                [5.081811523, 51.097797182],
+                [5.081811525, 51.097780808],
+                [5.081811527, 51.097763983],
+                [5.081811529, 51.097747159],
+                [5.081811457, 51.097747159],
+                [5.081811457, 51.097747114],
+                [5.081811457, 51.097743605],
+                [5.081811463, 51.097693133],
+                [5.081811463, 51.097689624],
+                [5.081811468, 51.097646382],
+                [5.081864211, 51.097646384],
+                [5.081864211, 51.097645305],
+                [5.081864212, 51.097636938],
+                [5.081866357, 51.097636938],
+                [5.081866357, 51.097636776],
+                [5.081864212, 51.097636776],
+                [5.081864213, 51.097628408],
+                [5.081866358, 51.097628408],
+                [5.081866358, 51.097628246],
+                [5.081864213, 51.097628246],
+                [5.081864213, 51.097627356],
+                [5.081864213, 51.097626186],
+                [5.081864213, 51.097625302],
+                [5.081866358, 51.097625302],
+                [5.081866358, 51.09762514],
+                [5.081864213, 51.09762514],
+                [5.081864214, 51.097616781],
+                [5.081866359, 51.097616782],
+                [5.081866359, 51.09761662],
+                [5.081864214, 51.09761662]
+              ],
+              [
+                [5.081872823, 51.097697552],
+                [5.081872826, 51.097666458],
+                [5.081872744, 51.097665931],
+                [5.0818725, 51.097665425],
+                [5.081872103, 51.097664958],
+                [5.08187157, 51.097664549],
+                [5.08187092, 51.097664214],
+                [5.081870178, 51.097663964],
+                [5.081869373, 51.097663811],
+                [5.081868536, 51.097663759],
+                [5.081842129, 51.097663757],
+                [5.08184086, 51.097663813],
+                [5.081839616, 51.097663979],
+                [5.08183842, 51.097664251],
+                [5.081837296, 51.097664625],
+                [5.081836265, 51.097665094],
+                [5.081835348, 51.097665648],
+                [5.081834561, 51.097666277],
+                [5.08183392, 51.097666968],
+                [5.081833438, 51.097667708],
+                [5.081833124, 51.097668484],
+                [5.081832983, 51.097669279],
+                [5.08183302, 51.097670079],
+                [5.081833232, 51.097670868],
+                [5.081833615, 51.09767163],
+                [5.081834164, 51.097672352],
+                [5.081858915, 51.097699856],
+                [5.081859556, 51.097700455],
+                [5.081860336, 51.097700985],
+                [5.081861236, 51.097701433],
+                [5.081862235, 51.097701789],
+                [5.081863309, 51.097702044],
+                [5.081864432, 51.097702191],
+                [5.081865578, 51.097702228],
+                [5.08186672, 51.097702154],
+                [5.08186783, 51.09770197],
+                [5.081868882, 51.097701681],
+                [5.08186985, 51.097701293],
+                [5.081870712, 51.097700817],
+                [5.081871447, 51.097700262],
+                [5.081872038, 51.097699643],
+                [5.081872471, 51.097698974],
+                [5.081872734, 51.097698272],
+                [5.081872823, 51.097697552]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 100.63075222453394 }
+        },
+        {
+          "name": "SILENT ROOM 00-04",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081862355, 51.097616781],
+                [5.081862827, 51.097616781],
+                [5.081862826, 51.097625221],
+                [5.081862826, 51.097626141],
+                [5.081837015, 51.09762614],
+                [5.081811613, 51.097626139],
+                [5.081811614, 51.097619931],
+                [5.081811616, 51.097598485],
+                [5.081862357, 51.097598487],
+                [5.081862355, 51.097616781]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 10.939857769025112 }
+        },
+        {
+          "name": "HIGH BENCH / TOUCHDOWN 6",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 4",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "MEETING ROOM TYPE 2 01-05",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811472, 51.09761153],
+                [5.081811475, 51.097585214],
+                [5.081865748, 51.097585217],
+                [5.081865745, 51.097611533],
+                [5.081843149, 51.097611532],
+                [5.081811472, 51.09761153]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 11.100375000000977 }
+        },
+        {
+          "name": "2 PSN FOCUS 3",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "PRIMARY STAIR 01-01",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081844199, 51.097821025],
+                [5.08184427, 51.097820036],
+                [5.081871485, 51.097820037],
+                [5.081871585, 51.097821746],
+                [5.081887302, 51.097821747],
+                [5.081887302, 51.097821837],
+                [5.081893609, 51.097821837],
+                [5.081893606, 51.097851572],
+                [5.081888815, 51.097851572],
+                [5.081888815, 51.097853326],
+                [5.081887299, 51.097853326],
+                [5.081871596, 51.097853326],
+                [5.081811617, 51.097853323],
+                [5.081811621, 51.097821024],
+                [5.081842082, 51.097821025],
+                [5.081844199, 51.097821025]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 20.59824500000329 }
+        },
+        {
+          "name": "WELLNESS ROOM 00-03",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081862826, 51.097627401],
+                [5.081862825, 51.097628327],
+                [5.081862824, 51.097636857],
+                [5.081862824, 51.097645304],
+                [5.081821634, 51.097645303],
+                [5.081821634, 51.097645213],
+                [5.081811611, 51.097645212],
+                [5.081811612, 51.097639151],
+                [5.081811613, 51.097627398],
+                [5.081817834, 51.097627399],
+                [5.081862826, 51.097627401]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 7.119181596571476 }
+        },
+        {
+          "name": "VENDING 44",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "WC 00-06",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "SECONDARY STAIR 04-05",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811475, 51.09758346],
+                [5.081811478, 51.097556424],
+                [5.081811564, 51.097556424],
+                [5.081894496, 51.097556428],
+                [5.081894493, 51.097583463],
+                [5.081811475, 51.09758346]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 17.444025000000398 }
+        },
+        {
+          "name": "CIRCULATION 01-16",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "PRIMARY STAIR 03-01",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081871585, 51.097820037],
+                [5.081871485, 51.097819947],
+                [5.081844199, 51.097819946],
+                [5.081844201, 51.097799433],
+                [5.081868842, 51.097799434],
+                [5.081871588, 51.097799434],
+                [5.081871588, 51.097801143],
+                [5.081887319, 51.097801144],
+                [5.081887319, 51.097799435],
+                [5.081893612, 51.097799435],
+                [5.081893606, 51.097851572],
+                [5.081888815, 51.097851572],
+                [5.081888815, 51.097853326],
+                [5.081811517, 51.097853323],
+                [5.081811517, 51.097851164],
+                [5.081811518, 51.097841267],
+                [5.08181152, 51.097821024],
+                [5.081844199, 51.097821025],
+                [5.08184427, 51.097820036],
+                [5.081846169, 51.097820036],
+                [5.081871485, 51.097820037],
+                [5.081871585, 51.097821746],
+                [5.081887317, 51.097821747],
+                [5.081887317, 51.097820038],
+                [5.081871585, 51.097820037]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 28.39521999992629 }
+        },
+        {
+          "name": "SECONDARY STAIR 00-05",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081888987, 51.097583463],
+                [5.081811567, 51.09758346],
+                [5.08181157, 51.097556478],
+                [5.081888918, 51.097556481],
+                [5.081888918, 51.097558272],
+                [5.081894138, 51.097558272],
+                [5.081894136, 51.097581664],
+                [5.081892237, 51.097581664],
+                [5.081888987, 51.097581664],
+                [5.081888987, 51.097583463]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 17.17035812872754 }
+        },
+        {
+          "name": "SILENT ROOM 45",
+          "geometry": null,
+          "level": {
+            "name": "Level 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "BREAKOUT 7",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FLEX COLLAB 01-02",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811451, 51.0977977],
+                [5.081811455, 51.097763893],
+                [5.081811456, 51.097759913],
+                [5.081811457, 51.097747249],
+                [5.081823541, 51.09774725],
+                [5.081823541, 51.097747228],
+                [5.081888826, 51.097747231],
+                [5.081888826, 51.097747252],
+                [5.081891615, 51.097747253],
+                [5.081891612, 51.097771244],
+                [5.08189161, 51.097797527],
+                [5.081888749, 51.097797527],
+                [5.081888749, 51.097799435],
+                [5.081871588, 51.097799434],
+                [5.081871588, 51.097799344],
+                [5.081844201, 51.097799343],
+                [5.081811523, 51.097799341],
+                [5.081811451, 51.097799341],
+                [5.081811451, 51.0977977]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 32.43563992034124 }
+        },
+        {
+          "name": "FOCUS 01-17",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "WC - M 01-07",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811624, 51.097529226],
+                [5.081869443, 51.097529229],
+                [5.081869442, 51.097539467],
+                [5.081862749, 51.097539467],
+                [5.081862749, 51.097540565],
+                [5.081869442, 51.097540565],
+                [5.081869441, 51.097552063],
+                [5.081849376, 51.097552062],
+                [5.081849378, 51.097539931],
+                [5.081849378, 51.097539467],
+                [5.08184761, 51.097539466],
+                [5.081830523, 51.097539466],
+                [5.081828733, 51.097539466],
+                [5.081811623, 51.097539465],
+                [5.081811624, 51.097529226]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 6.508038000000179 }
+        },
+        {
+          "name": "WORK AREA 00-08",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081894145, 51.098157496],
+                [5.081851527, 51.098157495],
+                [5.081851525, 51.098177304],
+                [5.08181141, 51.098177303],
+                [5.081811414, 51.098139516],
+                [5.081811414, 51.098136007],
+                [5.081811417, 51.098107388],
+                [5.081845415, 51.098107389],
+                [5.081847385, 51.098107389],
+                [5.081847385, 51.09810615],
+                [5.081847386, 51.098096242],
+                [5.081894152, 51.098096244],
+                [5.081894145, 51.098157496]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 42.44522692525163 }
+        },
+        {
+          "name": "SILENT ROOM 01-05",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FORMAL MEETING ROOM 01-06",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "WORKING AREA 01-03",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811457, 51.097745338],
+                [5.081811469, 51.097635755],
+                [5.081841645, 51.097635757],
+                [5.081841644, 51.097638006],
+                [5.081888481, 51.097638008],
+                [5.081888838, 51.097639289],
+                [5.081891627, 51.097639289],
+                [5.081891621, 51.097689582],
+                [5.081888761, 51.097689582],
+                [5.081888761, 51.097693271],
+                [5.081891621, 51.097693271],
+                [5.081891615, 51.097743564],
+                [5.081888755, 51.097743564],
+                [5.081888755, 51.097745341],
+                [5.081811457, 51.097745338]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 67.24395928536202 }
+        },
+        {
+          "name": "FLEX COLLAB 00-09",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081851527, 51.098157495],
+                [5.081894145, 51.098157496],
+                [5.081894143, 51.098179016],
+                [5.081894137, 51.098228731],
+                [5.081851519, 51.098228729],
+                [5.081851525, 51.098177304],
+                [5.081851527, 51.098157495]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 23.594518472968456 }
+        },
+        {
+          "name": "CIRCULATION SPACE 01-15",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "WELLNESS ROOM 01-04",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "SECONDARY STAIR 01-13",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "WC 02-06",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 01-33",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 01-40",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "SUPERLOO 01-08C",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081828758, 51.097517423],
+                [5.081811625, 51.097517422],
+                [5.081811627, 51.097505277],
+                [5.081828759, 51.097505277],
+                [5.081828758, 51.097517423]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6173000000002342 }
+        },
+        {
+          "name": "SUPERLOO 00-10A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081263354, 51.09842051],
+                [5.081244048, 51.098420509],
+                [5.081244049, 51.098406788],
+                [5.081263356, 51.098406789],
+                [5.081263354, 51.09842051]
+              ]
+            ]
+          },
+          "level": {
+            "name": "Level 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 2.0587500000000927 }
+        },
+        {
+          "name": "SECONDARY STAIR 01-06",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811475, 51.09758346],
+                [5.081811478, 51.097556424],
+                [5.08187017, 51.097556427],
+                [5.081894496, 51.097556428],
+                [5.081894493, 51.097583463],
+                [5.081811475, 51.09758346]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 17.444025000000398 }
+        },
+        {
+          "name": "PRIMARY STAIR 01-18",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "MEETING ROOM TYPE 3 01-12",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811504, 51.09809651],
+                [5.081894352, 51.098096514],
+                [5.081894349, 51.098120985],
+                [5.081887284, 51.098120985],
+                [5.081887284, 51.098124593],
+                [5.081887283, 51.09812839],
+                [5.081811501, 51.098128386],
+                [5.081811504, 51.09809651]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 20.118037000000008 }
+        },
+        {
+          "name": "WORKING AREA 04-03",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 97.88659180974823 }
+        },
+        {
+          "name": "FOCUS 04-04",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081887485, 51.097585272],
+                [5.081887485, 51.097585326],
+                [5.081891704, 51.097585326],
+                [5.081891701, 51.097613697],
+                [5.08184844, 51.097613695],
+                [5.081811472, 51.097613694],
+                [5.081811475, 51.097585268],
+                [5.081887485, 51.097585272]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 17.72275518865403 }
+        },
+        {
+          "name": "SUPERLOO 02-08A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081866513, 51.097517425],
+                [5.08184938, 51.097517424],
+                [5.081849381, 51.097505278],
+                [5.081866514, 51.097505279],
+                [5.081866513, 51.097517425]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6173000000000652 }
+        },
+        {
+          "name": "FLEX COLLAB 01-03",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "COLLAB 15",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 01-04",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811469, 51.097635755],
+                [5.08181147, 51.097632156],
+                [5.081811472, 51.09761153],
+                [5.081843149, 51.097611532],
+                [5.081864415, 51.097611533],
+                [5.081866603, 51.097611533],
+                [5.081866603, 51.097610993],
+                [5.081867461, 51.097610993],
+                [5.081867461, 51.097610293],
+                [5.081867464, 51.097585217],
+                [5.081887485, 51.097585218],
+                [5.081887485, 51.097585326],
+                [5.081891704, 51.097585326],
+                [5.081891699, 51.097635601],
+                [5.081888838, 51.0976356],
+                [5.081888838, 51.097635759],
+                [5.081841645, 51.097635757],
+                [5.081811469, 51.097635755]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 20.05974229037962 }
+        },
+        {
+          "name": "WC - F 04-08",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.08186649, 51.097517875],
+                [5.081866541, 51.097517875],
+                [5.081867385, 51.097517875],
+                [5.081869445, 51.097517875],
+                [5.081869443, 51.097528131],
+                [5.081850214, 51.09752813],
+                [5.081849307, 51.09752813],
+                [5.081833262, 51.09752813],
+                [5.081831503, 51.09752813],
+                [5.081811567, 51.097528129],
+                [5.081811568, 51.097517872],
+                [5.081828735, 51.097517873],
+                [5.081830525, 51.097517873],
+                [5.081847613, 51.097517874],
+                [5.081849403, 51.097517874],
+                [5.08186649, 51.097517875]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 4.613580000006557 }
+        },
+        {
+          "name": "WC LOBBY 01-09",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081891707, 51.097556428],
+                [5.081870899, 51.097556427],
+                [5.081870899, 51.097553665],
+                [5.0818709, 51.097550911],
+                [5.081870901, 51.097540016],
+                [5.081870902, 51.09752868],
+                [5.081870903, 51.097517875],
+                [5.081891711, 51.097517876],
+                [5.081891709, 51.097543292],
+                [5.081891707, 51.097556428]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 6.234675000000265 }
+        },
+        {
+          "name": "SUPERLOO 00-11B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081263351, 51.098447186],
+                [5.081244044, 51.098447185],
+                [5.081244046, 51.098436388],
+                [5.081263352, 51.098436389],
+                [5.081263351, 51.098447186]
+              ]
+            ]
+          },
+          "level": {
+            "name": "Level 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6199999999999823 }
+        },
+        {
+          "name": "PRIMARY STAIR 00-01",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081887302, 51.097821747],
+                [5.081887303, 51.097820038],
+                [5.081887317, 51.097820038],
+                [5.081887317, 51.097821837],
+                [5.081893609, 51.097821837],
+                [5.081893606, 51.097851572],
+                [5.081888815, 51.097851572],
+                [5.081888815, 51.097853371],
+                [5.081887299, 51.097853371],
+                [5.081871596, 51.097853371],
+                [5.081871596, 51.097853326],
+                [5.081811588, 51.097853323],
+                [5.081811592, 51.097821834],
+                [5.08184427, 51.097821835],
+                [5.0818716, 51.097821836],
+                [5.0818716, 51.097821746],
+                [5.081887302, 51.097821747]
+              ]
+            ]
+          },
+          "level": {
+            "name": "Level 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 20.024375000007012 }
+        },
+        {
+          "name": "MEETING ROOM TYPE 1 02-02",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811523, 51.0977977],
+                [5.081811451, 51.0977977],
+                [5.081811451, 51.097797632],
+                [5.081811456, 51.097760381],
+                [5.081844706, 51.097760382],
+                [5.081844706, 51.097760556],
+                [5.081845206, 51.097760556],
+                [5.081845207, 51.097760382],
+                [5.0818471, 51.097760438],
+                [5.081848978, 51.097760602],
+                [5.081850823, 51.097760876],
+                [5.08185262, 51.097761255],
+                [5.081854353, 51.097761736],
+                [5.081856009, 51.097762317],
+                [5.081857573, 51.09776299],
+                [5.081859031, 51.097763752],
+                [5.081860371, 51.097764596],
+                [5.081861582, 51.097765513],
+                [5.081862653, 51.097766497],
+                [5.081863575, 51.097767538],
+                [5.081864341, 51.097768629],
+                [5.081864943, 51.09776976],
+                [5.081865377, 51.097770921],
+                [5.081865638, 51.097772102],
+                [5.081865726, 51.097773293],
+                [5.08186577, 51.097773292],
+                [5.08186577, 51.097773296],
+                [5.081865799, 51.097773296],
+                [5.081865796, 51.097797702],
+                [5.081811523, 51.0977977]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 15.384228614588052 }
+        },
+        {
+          "name": "FLEX COLLAB 03-02",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811445, 51.097855122],
+                [5.081811517, 51.097855122],
+                [5.081857327, 51.097855124],
+                [5.081857327, 51.097855214],
+                [5.081888886, 51.097855216],
+                [5.081894464, 51.097855216],
+                [5.081894459, 51.097894819],
+                [5.081888596, 51.097894818],
+                [5.081888596, 51.097893649],
+                [5.081841044, 51.097893647],
+                [5.081841044, 51.097894816],
+                [5.081811441, 51.097894815],
+                [5.081811441, 51.09789291],
+                [5.081811445, 51.097856481],
+                [5.081811445, 51.097855122]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 25.152190282880255 }
+        },
+        {
+          "name": "PRIMARY STAIR 04-01",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081844199, 51.097821025],
+                [5.081844199, 51.097820036],
+                [5.081871485, 51.097820037],
+                [5.081871585, 51.097821746],
+                [5.081887317, 51.097821747],
+                [5.081887317, 51.097821837],
+                [5.081887388, 51.097821837],
+                [5.081893609, 51.097821837],
+                [5.081893606, 51.097851572],
+                [5.081888815, 51.097851572],
+                [5.081888815, 51.097853326],
+                [5.081811617, 51.097853323],
+                [5.081811617, 51.097851164],
+                [5.081811618, 51.097841267],
+                [5.081811621, 51.097821024],
+                [5.081844199, 51.097821025]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 20.598530000003493 }
+        },
+        {
+          "name": "WC LOBBY 02-06",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081891707, 51.097556428],
+                [5.081870899, 51.097556427],
+                [5.081870899, 51.097553665],
+                [5.0818709, 51.097550911],
+                [5.081870901, 51.097540016],
+                [5.081870902, 51.09752868],
+                [5.081870903, 51.097517875],
+                [5.081891711, 51.097517876],
+                [5.081891707, 51.097556428]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 6.234675000000265 }
+        },
+        {
+          "name": "WORKING AREA 02-03",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 98.55505726428895 }
+        },
+        {
+          "name": "FLEX COLLAB 01-11",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081887298, 51.098129474],
+                [5.081887298, 51.098129442],
+                [5.081889114, 51.098129442],
+                [5.081889114, 51.098126518],
+                [5.081889543, 51.098126518],
+                [5.081894348, 51.098126519],
+                [5.081894348, 51.098127724],
+                [5.081894343, 51.098174517],
+                [5.081887278, 51.098174517],
+                [5.081887278, 51.098177252],
+                [5.081849408, 51.09817725],
+                [5.08184795, 51.09817725],
+                [5.081832232, 51.09817725],
+                [5.081832232, 51.098177196],
+                [5.081832218, 51.098177196],
+                [5.081811581, 51.098177195],
+                [5.081811587, 51.09812947],
+                [5.081887298, 51.098129474]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 30.69369900000019 }
+        },
+        {
+          "name": "FOCUS 03-04",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811422, 51.09806754],
+                [5.081811425, 51.098037805],
+                [5.081842888, 51.098037807],
+                [5.081842884, 51.098069296],
+                [5.081811422, 51.098069294],
+                [5.081811422, 51.09806754]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 7.700000000000017 }
+        },
+        {
+          "name": "FOCUS 01-39",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811419, 51.09809624],
+                [5.081847386, 51.098096242],
+                [5.081847385, 51.098107389],
+                [5.081811417, 51.098107388],
+                [5.081811418, 51.09809804],
+                [5.081811419, 51.09809624]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 3.1161396677098407 }
+        },
+        {
+          "name": "SUPERLOO 04-08C",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081828758, 51.097517423],
+                [5.081811568, 51.097517422],
+                [5.081811569, 51.097505277],
+                [5.081828759, 51.097505277],
+                [5.081828758, 51.097517423]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6227000000079688 }
+        },
+        {
+          "name": "SUPERLOO 04-08A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081866513, 51.097517425],
+                [5.08184938, 51.097517424],
+                [5.081849381, 51.097505278],
+                [5.081866514, 51.097505279],
+                [5.081866513, 51.097517425]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6173000000000652 }
+        },
+        {
+          "name": "WC - F 01-08",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.08186649, 51.097517875],
+                [5.081866541, 51.097517875],
+                [5.081867385, 51.097517875],
+                [5.081869445, 51.097517875],
+                [5.081869443, 51.097528131],
+                [5.081811624, 51.097528129],
+                [5.081811625, 51.097517872],
+                [5.081828735, 51.097517873],
+                [5.081830525, 51.097517873],
+                [5.081847613, 51.097517874],
+                [5.081849403, 51.097517874],
+                [5.08186649, 51.097517875]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 4.60902000000005 }
+        },
+        {
+          "name": "MEETING ROOM TYPE 3 01-13",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081851668, 51.098178384],
+                [5.08188735, 51.098178386],
+                [5.081887349, 51.098179105],
+                [5.081894426, 51.098179106],
+                [5.081894352, 51.098229039],
+                [5.081851519, 51.098229037],
+                [5.081851523, 51.098195028],
+                [5.081851666, 51.098195028],
+                [5.081851668, 51.09817849],
+                [5.081851668, 51.098178384]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 16.81761263108412 }
+        },
+        {
+          "name": "WORKING AREA 01-32",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "SHOWER 01-10",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081888924, 51.09750528],
+                [5.081888924, 51.097502446],
+                [5.081894502, 51.097502446],
+                [5.081894501, 51.097506],
+                [5.081891713, 51.097506],
+                [5.081891711, 51.097516958],
+                [5.081870174, 51.097516957],
+                [5.081868258, 51.097516957],
+                [5.081868259, 51.097505279],
+                [5.081888924, 51.09750528]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 2.2671699999725727 }
+        },
+        {
+          "name": "SUPERLOO 02-08C",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811654, 51.097517422],
+                [5.081811655, 51.097505277],
+                [5.081828759, 51.097505277],
+                [5.081828758, 51.097517423],
+                [5.081811654, 51.097517422]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6146000000079006 }
+        },
+        {
+          "name": "SUPERLOO 01-19B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081263351, 51.098447186],
+                [5.081244044, 51.098447185],
+                [5.081244046, 51.098436388],
+                [5.081263352, 51.098436389],
+                [5.081263351, 51.098447186]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6199999999999823 }
         },
         {
           "name": "PRIMARY STAIR 02-01",
@@ -75,56 +1616,1145 @@
           },
           "level": {
             "name": "CORTEZ 1 - LEVEL 02",
-            "elevation": {
-              "unit": "Millimeters",
-              "value": 6400
-            }
+            "elevation": { "unit": "Millimeters", "value": 6400 }
           },
-          "area": {
-            "unit": "SquareMeters",
-            "value": 20.591034039810925
-          }
+          "area": { "unit": "SquareMeters", "value": 20.591034039810925 }
         },
         {
-          "name": "DUPLICATE PRIMARY STAIR 02-01",
+          "name": "WC 02-07",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "MEETING ROOM TYPE 3 04-02",
           "geometry": {
             "type": "Polygon",
             "coordinates": [
               [
-                [5.081887302, 51.097821747],
-                [5.081887302, 51.097821837],
-                [5.081893609, 51.097821837],
-                [5.081893606, 51.097851572],
-                [5.081888815, 51.097851572],
-                [5.081888815, 51.097853326],
-                [5.081811617, 51.097853323],
-                [5.081811621, 51.097821024],
-                [5.081842082, 51.097821025],
-                [5.081845172, 51.097821025],
-                [5.081845172, 51.097820036],
-                [5.081871485, 51.097820037],
-                [5.081871585, 51.097821746],
-                [5.081887302, 51.097821747]
-              ],
+                [5.081865726, 51.097773293],
+                [5.08186577, 51.097773292],
+                [5.08186577, 51.097773296],
+                [5.081865799, 51.097773296],
+                [5.081865796, 51.097797702],
+                [5.081811451, 51.0977977],
+                [5.081811456, 51.097760381],
+                [5.081845207, 51.097760382],
+                [5.0818471, 51.097760438],
+                [5.081848978, 51.097760602],
+                [5.081850823, 51.097760876],
+                [5.08185262, 51.097761255],
+                [5.081854353, 51.097761736],
+                [5.081856009, 51.097762317],
+                [5.081857573, 51.09776299],
+                [5.081859031, 51.097763752],
+                [5.081860371, 51.097764596],
+                [5.081861582, 51.097765513],
+                [5.081862653, 51.097766497],
+                [5.081863575, 51.097767538],
+                [5.081864341, 51.097768629],
+                [5.081864943, 51.09776976],
+                [5.081865377, 51.097770921],
+                [5.081865638, 51.097772102],
+                [5.081865726, 51.097773293]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 15.384902419032963 }
+        },
+        {
+          "name": "PRIMARY STAIR 01-36",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "SUPERLOO 01-07B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
               [
-                [5.081887302, 51.097821747],
-                [5.081887302, 51.097821837],
-                [5.081893609, 51.097821837],
-                [5.081893606, 51.097851572]
+                [5.081811623, 51.097539915],
+                [5.081828756, 51.097539915],
+                [5.081828754, 51.097552061],
+                [5.081813449, 51.097552061],
+                [5.081811621, 51.097552061],
+                [5.081811623, 51.097539915]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6173000000002342 }
+        },
+        {
+          "name": "SUPERLOO 02-07A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.0818305, 51.097539916],
+                [5.081847633, 51.097539916],
+                [5.081847632, 51.097552062],
+                [5.081830499, 51.097552061],
+                [5.0818305, 51.097539916]
               ]
             ]
           },
           "level": {
             "name": "CORTEZ 1 - LEVEL 02",
-            "elevation": {
-              "unit": "Millimeters",
-              "value": 6400
-            }
+            "elevation": { "unit": "Millimeters", "value": 6400 }
           },
-          "area": {
-            "unit": "SquareMeters",
-            "value": 20.591034039810925
-          }
+          "area": { "unit": "SquareMeters", "value": 1.6173000000000652 }
+        },
+        {
+          "name": "FOCUS 02-04",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811472, 51.097611624],
+                [5.081811475, 51.097585214],
+                [5.081887485, 51.097585218],
+                [5.081887485, 51.097585326],
+                [5.081891704, 51.097585326],
+                [5.081891701, 51.097611628],
+                [5.081888483, 51.097611628],
+                [5.081845866, 51.097611626],
+                [5.081811472, 51.097611624]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 16.46434518864246 }
+        },
+        {
+          "name": "FOCUS 01-35",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "WC - M 04-07",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081869441, 51.097554627],
+                [5.081819916, 51.097554625],
+                [5.081819917, 51.09754418],
+                [5.081831492, 51.09754418],
+                [5.081833283, 51.09754418],
+                [5.081849317, 51.097544181],
+                [5.081851084, 51.097544181],
+                [5.081851084, 51.097543717],
+                [5.081851085, 51.097532737],
+                [5.081851086, 51.097531585],
+                [5.081869443, 51.097531586],
+                [5.081869442, 51.097539863],
+                [5.081862749, 51.097539863],
+                [5.081862749, 51.097540961],
+                [5.081869442, 51.097540961],
+                [5.081869441, 51.097554627]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 5.760543759162212 }
+        },
+        {
+          "name": "SUPERLOO 01-07A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.0818305, 51.097539916],
+                [5.081847633, 51.097539916],
+                [5.081847632, 51.097552062],
+                [5.081830499, 51.097552061],
+                [5.0818305, 51.097539916]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6173000000000652 }
+        },
+        {
+          "name": "SUPERLOO 04-08B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081847635, 51.097517424],
+                [5.081830503, 51.097517423],
+                [5.081830504, 51.097505277],
+                [5.081847637, 51.097505278],
+                [5.081847635, 51.097517424]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6173000000000652 }
+        },
+        {
+          "name": "SUPERLOO 01-08B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081847635, 51.097517424],
+                [5.081830503, 51.097517423],
+                [5.081830504, 51.097505277],
+                [5.081847637, 51.097505278],
+                [5.081847635, 51.097517424]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6173000000000652 }
+        },
+        {
+          "name": "FUEL STATION 01-24",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081872826, 51.097666458],
+                [5.081872823, 51.097697552],
+                [5.081872734, 51.097698272],
+                [5.081872471, 51.097698974],
+                [5.081872038, 51.097699643],
+                [5.081871447, 51.097700262],
+                [5.081870712, 51.097700817],
+                [5.08186985, 51.097701293],
+                [5.081868882, 51.097701681],
+                [5.08186783, 51.09770197],
+                [5.08186672, 51.097702154],
+                [5.081865578, 51.097702228],
+                [5.081864432, 51.097702191],
+                [5.081863309, 51.097702044],
+                [5.081862235, 51.097701789],
+                [5.081861236, 51.097701433],
+                [5.081860336, 51.097700985],
+                [5.081859556, 51.097700455],
+                [5.081858915, 51.097699856],
+                [5.081834164, 51.097672352],
+                [5.081833615, 51.09767163],
+                [5.081833232, 51.097670868],
+                [5.08183302, 51.097670079],
+                [5.081832983, 51.097669279],
+                [5.081833124, 51.097668484],
+                [5.081833438, 51.097667708],
+                [5.08183392, 51.097666968],
+                [5.081834561, 51.097666277],
+                [5.081835348, 51.097665648],
+                [5.081836265, 51.097665094],
+                [5.081837296, 51.097664625],
+                [5.08183842, 51.097664251],
+                [5.081839616, 51.097663979],
+                [5.08184086, 51.097663813],
+                [5.081842129, 51.097663757],
+                [5.081868536, 51.097663759],
+                [5.081869373, 51.097663811],
+                [5.081870178, 51.097663964],
+                [5.08187092, 51.097664214],
+                [5.08187157, 51.097664549],
+                [5.081872103, 51.097664958],
+                [5.0818725, 51.097665425],
+                [5.081872744, 51.097665931],
+                [5.081872826, 51.097666458]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 8.328792976918985 }
+        },
+        {
+          "name": "FUEL STATION 01-38",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 00 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "WC 01-45",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "SUPERLOO 02-07B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.08181165, 51.097552061],
+                [5.081811651, 51.097539915],
+                [5.081828756, 51.097539915],
+                [5.081828754, 51.097552061],
+                [5.08181165, 51.097552061]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.614600000007882 }
+        },
+        {
+          "name": "WC LOBBY 04-06",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081891707, 51.097554628],
+                [5.081870899, 51.097554627],
+                [5.081870901, 51.097540412],
+                [5.081870902, 51.097531037],
+                [5.081870902, 51.09752868],
+                [5.081870903, 51.097517875],
+                [5.081891711, 51.097517876],
+                [5.081891709, 51.097543292],
+                [5.081891707, 51.097554628]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 5.9436750001037595 }
+        },
+        {
+          "name": "SHOWER 02-09",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081891713, 51.09750528],
+                [5.081891711, 51.097516958],
+                [5.081870174, 51.097516957],
+                [5.081868258, 51.097516957],
+                [5.081868259, 51.097505279],
+                [5.081891713, 51.09750528]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 2.1287200000002593 }
+        },
+        {
+          "name": "SHOWER 04-09",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081891713, 51.097506045],
+                [5.081891711, 51.097516958],
+                [5.081870174, 51.097516957],
+                [5.081868258, 51.097516957],
+                [5.081868259, 51.097505279],
+                [5.081888924, 51.09750528],
+                [5.081888924, 51.097506045],
+                [5.081891713, 51.097506045]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 2.112144999986349 }
+        },
+        {
+          "name": "SUPERLOO 02-08B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081847635, 51.097517424],
+                [5.081830503, 51.097517423],
+                [5.081830504, 51.097505277],
+                [5.081847637, 51.097505278],
+                [5.081847635, 51.097517424]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6173000000000652 }
+        },
+        {
+          "name": "WC - F 02-08",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811653, 51.097528129],
+                [5.081811654, 51.097517872],
+                [5.081828735, 51.097517873],
+                [5.081830525, 51.097517873],
+                [5.081847613, 51.097517874],
+                [5.081849403, 51.097517874],
+                [5.08186649, 51.097517875],
+                [5.081866541, 51.097517875],
+                [5.081867385, 51.097517875],
+                [5.081869445, 51.097517875],
+                [5.081869443, 51.097528131],
+                [5.081811653, 51.097528129]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 4.6067400000065 }
+        },
+        {
+          "name": "SUPERLOO 03-06C",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.080522884, 51.097504786],
+                [5.08054219, 51.097504787],
+                [5.080542189, 51.097515583],
+                [5.080522882, 51.097515582],
+                [5.080522884, 51.097504786]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6200000000000667 }
+        },
+        {
+          "name": "SUPERLOO 01-08A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081866513, 51.097517425],
+                [5.08184938, 51.097517424],
+                [5.081849381, 51.097505278],
+                [5.081866514, 51.097505279],
+                [5.081866513, 51.097517425]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6173000000000652 }
+        },
+        {
+          "name": "SUPERLOO 00-11A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081244047, 51.098421588],
+                [5.081263354, 51.098421589],
+                [5.081263353, 51.09843531],
+                [5.081244046, 51.098435309],
+                [5.081244047, 51.098421588]
+              ]
+            ]
+          },
+          "level": {
+            "name": "Level 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 2.0587500000000083 }
+        },
+        {
+          "name": "SUPERLOO 01-20B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081244051, 51.098394912],
+                [5.081263358, 51.098394913],
+                [5.081263356, 51.09840571],
+                [5.081244049, 51.098405709],
+                [5.081244051, 51.098394912]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6199999999999823 }
+        },
+        {
+          "name": "SUPERLOO 01-19A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081244047, 51.098421588],
+                [5.081263354, 51.098421589],
+                [5.081263353, 51.09843531],
+                [5.081244046, 51.098435309],
+                [5.081244047, 51.098421588]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 2.0587500000000083 }
+        },
+        {
+          "name": "WC - F 03-03",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.080542895, 51.097580122],
+                [5.080542897, 51.09756934],
+                [5.08056299, 51.097569341],
+                [5.080562985, 51.097603889],
+                [5.080542892, 51.097603888],
+                [5.080542893, 51.097593106],
+                [5.080542893, 51.097591998],
+                [5.080542895, 51.09758123],
+                [5.080542895, 51.097580122]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 5.395200000000702 }
+        },
+        {
+          "name": "SUPERLOO 00-10B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081244051, 51.098394912],
+                [5.081263358, 51.098394913],
+                [5.081263356, 51.09840571],
+                [5.081244049, 51.098405709],
+                [5.081244051, 51.098394912]
+              ]
+            ]
+          },
+          "level": {
+            "name": "Level 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6199999999999823 }
+        },
+        {
+          "name": "WC - M 01-19",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081276651, 51.098447186],
+                [5.081264066, 51.098447186],
+                [5.081264068, 51.098436404],
+                [5.081264068, 51.098435295],
+                [5.081264069, 51.098421589],
+                [5.081279229, 51.09842159],
+                [5.081279226, 51.098444442],
+                [5.081276652, 51.098444442],
+                [5.081276651, 51.098447186]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 2.960800000012495 }
+        },
+        {
+          "name": "SUPERLOO 03-03A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.08054218, 51.097580136],
+                [5.080522873, 51.097580135],
+                [5.080522875, 51.097569339],
+                [5.080542038, 51.09756934],
+                [5.080542181, 51.09756934],
+                [5.08054218, 51.097580136]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6200000000000245 }
+        },
+        {
+          "name": "SUPERLOO 04-07E",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.08184934, 51.097543731],
+                [5.08183326, 51.09754373],
+                [5.081833261, 51.097531585],
+                [5.081849341, 51.097531585],
+                [5.08184934, 51.097543731]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.517885268194617 }
+        },
+        {
+          "name": "WC - M 02-07",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811651, 51.097539465],
+                [5.081811653, 51.097529226],
+                [5.081869443, 51.097529229],
+                [5.081869442, 51.097539467],
+                [5.081862749, 51.097539467],
+                [5.081862749, 51.097540565],
+                [5.081869442, 51.097540565],
+                [5.081869441, 51.097552063],
+                [5.081849376, 51.097552062],
+                [5.081849378, 51.097539931],
+                [5.081849378, 51.097539467],
+                [5.08184761, 51.097539466],
+                [5.081830523, 51.097539466],
+                [5.081828733, 51.097539466],
+                [5.081811651, 51.097539465]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 6.505762000006593 }
+        },
+        {
+          "name": "WC - F 00-10",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081264073, 51.098394913],
+                [5.081276372, 51.098394914],
+                [5.081276658, 51.098394914],
+                [5.081279232, 51.098394914],
+                [5.081279229, 51.09842051],
+                [5.081264069, 51.09842051],
+                [5.081264071, 51.098406804],
+                [5.081264071, 51.098405695],
+                [5.081264073, 51.098394913]
+              ]
+            ]
+          },
+          "level": {
+            "name": "Level 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 3.01569999995549 }
+        },
+        {
+          "name": "LIFT LOBBY 04-10",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081891464, 51.097819948],
+                [5.081887388, 51.097819948],
+                [5.081887388, 51.097821747],
+                [5.081887317, 51.097821747],
+                [5.081887317, 51.097820038],
+                [5.081871585, 51.097820037],
+                [5.081871485, 51.097819947],
+                [5.081844199, 51.097819946],
+                [5.081844201, 51.097801232],
+                [5.081871602, 51.097801233],
+                [5.081871602, 51.097801143],
+                [5.081887319, 51.097801144],
+                [5.081887319, 51.097801234],
+                [5.081891466, 51.097801234],
+                [5.081891464, 51.097819948]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 6.897425000002818 }
+        },
+        {
+          "name": "SUPERLOO 03-06A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.080542187, 51.097528539],
+                [5.080542186, 51.097539335],
+                [5.080522879, 51.097539334],
+                [5.080522881, 51.097528538],
+                [5.080542187, 51.097528539]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6200000000001145 }
+        },
+        {
+          "name": "WC - F 01-20",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081264073, 51.098394913],
+                [5.081276658, 51.098394914],
+                [5.081276658, 51.098394869],
+                [5.081279232, 51.098394869],
+                [5.081279229, 51.09842051],
+                [5.081264069, 51.09842051],
+                [5.081264071, 51.098406804],
+                [5.081264071, 51.098405695],
+                [5.081264073, 51.098394913]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 3.0165999999869086 }
+        },
+        {
+          "name": "WC - M 03-06",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.080562998, 51.097504788],
+                [5.080562992, 51.097553911],
+                [5.080542899, 51.09755391],
+                [5.080542899, 51.097549861],
+                [5.080541183, 51.097549861],
+                [5.080541183, 51.09755391],
+                [5.080522877, 51.097553909],
+                [5.080522879, 51.097540414],
+                [5.080542163, 51.097540415],
+                [5.0805429, 51.097540415],
+                [5.080542901, 51.097539321],
+                [5.080542902, 51.097528553],
+                [5.080542902, 51.097527445],
+                [5.080542904, 51.097516677],
+                [5.080542904, 51.097515569],
+                [5.080542905, 51.097504787],
+                [5.080562998, 51.097504788]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 9.717300000001403 }
+        },
+        {
+          "name": "LIFT LOBBY 01-21",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081871585, 51.097820037],
+                [5.081871485, 51.097819947],
+                [5.081844342, 51.097819946],
+                [5.081844342, 51.097819786],
+                [5.081844344, 51.097801232],
+                [5.081871588, 51.097801233],
+                [5.081871588, 51.097801143],
+                [5.081887319, 51.097801144],
+                [5.081887319, 51.097801234],
+                [5.081891466, 51.097801234],
+                [5.081891464, 51.097819948],
+                [5.081887317, 51.097819948],
+                [5.081887317, 51.097820038],
+                [5.081887303, 51.097820038],
+                [5.081871585, 51.097820037]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 6.875634999999685 }
+        },
+        {
+          "name": "SUPERLOO 01-20A",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081263354, 51.09842051],
+                [5.081244048, 51.098420509],
+                [5.081244049, 51.098406788],
+                [5.081263356, 51.098406789],
+                [5.081263354, 51.09842051]
+              ]
+            ]
+          },
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 2.0587500000000927 }
+        },
+        {
+          "name": "SUPERLOO 03-03C",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.080542178, 51.097593092],
+                [5.080542177, 51.097603888],
+                [5.08052287, 51.097603887],
+                [5.080522872, 51.097593091],
+                [5.080542178, 51.097593092]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.619999999999993 }
+        },
+        {
+          "name": "SUPERLOO 03-03B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.080522896, 51.097581215],
+                [5.08054218, 51.097581216],
+                [5.080542178, 51.097592012],
+                [5.080522872, 51.097592011],
+                [5.080522873, 51.097585578],
+                [5.080522873, 51.097581215],
+                [5.080522896, 51.097581215]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6200000000000114 }
+        },
+        {
+          "name": "SUPERLOO 04-07D",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811565, 51.097542659],
+                [5.081811566, 51.097531584],
+                [5.081831517, 51.097531584],
+                [5.081831515, 51.09754373],
+                [5.08181994, 51.09754373],
+                [5.081819708, 51.09754373],
+                [5.081819059, 51.097542659],
+                [5.081811565, 51.097542659]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.818195112299927 }
+        },
+        {
+          "name": "WC - M 00-11",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081276652, 51.098447186],
+                [5.081264066, 51.098447186],
+                [5.081264068, 51.098436404],
+                [5.081264068, 51.098435295],
+                [5.081264069, 51.098421589],
+                [5.081279229, 51.09842159],
+                [5.081279226, 51.09844444],
+                [5.081276652, 51.09844444],
+                [5.081276652, 51.098447186]
+              ]
+            ]
+          },
+          "level": {
+            "name": "Level 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 2.9607650331633923 }
+        },
+        {
+          "name": "LIFT LOBBY 02-10",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081845174, 51.097801232],
+                [5.081871588, 51.097801233],
+                [5.081871588, 51.097801143],
+                [5.081887319, 51.097801144],
+                [5.081887319, 51.097801234],
+                [5.081891466, 51.097801234],
+                [5.081891464, 51.097819948],
+                [5.081887317, 51.097819948],
+                [5.081887317, 51.097820038],
+                [5.081887303, 51.097820038],
+                [5.081871585, 51.097820037],
+                [5.081871485, 51.097819947],
+                [5.081845172, 51.097819946],
+                [5.081845174, 51.097801232]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 6.754882298111193 }
+        },
+        {
+          "name": "SUPERLOO 03-06B",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.080522882, 51.097516662],
+                [5.080542189, 51.097516663],
+                [5.080542187, 51.097527459],
+                [5.080522881, 51.097527458],
+                [5.080522882, 51.097516662]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.6200000000001091 }
+        },
+        {
+          "name": "LIFT LOBBY 00-07",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.0818716, 51.097820037],
+                [5.081871586, 51.097819947],
+                [5.081844342, 51.097819946],
+                [5.081844344, 51.097801232],
+                [5.081871588, 51.097801233],
+                [5.081871588, 51.097801143],
+                [5.081887305, 51.097801144],
+                [5.081887305, 51.097801234],
+                [5.081893611, 51.097801234],
+                [5.081893609, 51.097819948],
+                [5.081887317, 51.097819948],
+                [5.081887303, 51.097819948],
+                [5.081887303, 51.097820038],
+                [5.0818716, 51.097820037]
+              ]
+            ]
+          },
+          "level": {
+            "name": "Level 1",
+            "elevation": { "unit": "Millimeters", "value": 0 }
+          },
+          "area": { "unit": "SquareMeters", "value": 7.187574999998234 }
+        },
+        {
+          "name": "CLEANER 03-05",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.080522877, 51.097554989],
+                [5.080541182, 51.09755499],
+                [5.080541181, 51.09756826],
+                [5.080522875, 51.097568259],
+                [5.080522877, 51.097554989]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 1.8880035947519342 }
+        },
+        {
+          "name": "CIRCULATION 16",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "FOCUS 01-07",
+          "geometry": null,
+          "level": {
+            "name": "LEVEL 01 - CORTEZ 1",
+            "elevation": { "unit": "Millimeters", "value": 3200 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
+        },
+        {
+          "name": "SECONDARY STAIR 02-05",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.081811475, 51.09758346],
+                [5.081811478, 51.097556424],
+                [5.08187017, 51.097556427],
+                [5.081894496, 51.097556428],
+                [5.081894493, 51.097583463],
+                [5.081811475, 51.09758346]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 02",
+            "elevation": { "unit": "Millimeters", "value": 6400 }
+          },
+          "area": { "unit": "SquareMeters", "value": 17.444025000000398 }
+        },
+        {
+          "name": "WORKING AREA 03-03",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.08181144, 51.09790555],
+                [5.081811441, 51.097894815],
+                [5.081841044, 51.097894816],
+                [5.081888596, 51.097894818],
+                [5.081894459, 51.097894819],
+                [5.081894458, 51.097905509],
+                [5.081888738, 51.097905509],
+                [5.081888737, 51.097909197],
+                [5.081894458, 51.097909198],
+                [5.081894452, 51.09795949],
+                [5.081888732, 51.09795949],
+                [5.081888731, 51.097963179],
+                [5.081894452, 51.097963179],
+                [5.081894446, 51.098013427],
+                [5.081888726, 51.098013427],
+                [5.081888726, 51.098017116],
+                [5.081894446, 51.098017116],
+                [5.081894443, 51.098042307],
+                [5.081894157, 51.098042307],
+                [5.081894155, 51.098067409],
+                [5.08188872, 51.098067408],
+                [5.08188872, 51.098069298],
+                [5.0818574, 51.098069296],
+                [5.081842884, 51.098069296],
+                [5.081842888, 51.098037807],
+                [5.081811425, 51.098037805],
+                [5.081811427, 51.098017067],
+                [5.081811428, 51.098013513],
+                [5.081811433, 51.097963041],
+                [5.081811434, 51.097959532],
+                [5.081811439, 51.097909059],
+                [5.08181144, 51.09790555]
+              ]
+            ]
+          },
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 03",
+            "elevation": { "unit": "Millimeters", "value": 7829.999999999999 }
+          },
+          "area": { "unit": "SquareMeters", "value": 104.24581753546919 }
+        },
+        {
+          "name": "FORMAL MEETING ROOM 01-34",
+          "geometry": null,
+          "level": {
+            "name": "CORTEZ 1 - LEVEL 04",
+            "elevation": { "unit": "Millimeters", "value": 9600 }
+          },
+          "area": { "unit": "SquareMeters", "value": 0 }
         }
       ]
     }

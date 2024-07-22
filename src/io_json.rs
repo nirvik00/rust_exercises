@@ -32,24 +32,28 @@ fn dog_serialization()
     let owner01 = DogOwner{first_name:"abc".to_string(), last_name:"def".to_string()};
     let dog01 = Dog{name:"gbdb".to_string(), year_born:2020, owner: owner01};
     let dog_ser = to_string(&dog01);
-    if dog_ser.is_ok(){
+    if dog_ser.is_ok()
+    {
         println!("{}", dog_ser.ok().unwrap());
     }else{
         println!("{:#?}", dog_ser.err());
     }
 }
 
-fn dog_deserialization(){
+fn dog_deserialization()
+{
     let json_str = r#"
     {"name":"gbdb","year_born":2020,"owner":{"first_name":"abc","last_name":"def"}}
     "#;
     let dog_deser = from_str::<Dog>(json_str);
-    if dog_deser.is_ok(){
+    if dog_deser.is_ok()
+    {
         println!("{:#?}", dog_deser.ok().unwrap());
-    }else{
+    }
+    else
+    {
         println!("{:#?}", dog_deser.err());
     }
-
 }
 
 
