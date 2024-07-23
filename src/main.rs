@@ -17,6 +17,9 @@ mod structs2;
 mod structs_enums;
 mod options_ex;
 mod result_ex;
+mod hashmaps;
+mod hashmap_ex;
+
 
 mod web_server;
 
@@ -33,10 +36,15 @@ fn main() {
 
     // structs2::run3();
     // enums2::run();
-    structs_enums::run();
+    // structs_enums::run();
     // options_ex::run();
 
-    result_ex::run();
+    // result_ex::run();
+    // result_ex::run2();
+    // hashmaps::run();
+    // hashmaps::run2();
+
+    hashmap_ex::main();
 }
 
 //  cargo run 2>cargo.log

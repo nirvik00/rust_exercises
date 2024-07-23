@@ -51,6 +51,4 @@ pub fn run()
             Value::Float(num) => println!("float {:?}", i),
         }
     }
-
-
 }

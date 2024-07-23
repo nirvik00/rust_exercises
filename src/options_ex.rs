@@ -38,10 +38,10 @@ pub fn run()
     //     _=>{},
     // }
 
-    if let Some(g) = x{
+    if let Some(g) = x {
         println!("grade is {}", g);
     }
-    
+
 }
 
 // enum Option<T>{
