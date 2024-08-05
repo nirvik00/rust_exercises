@@ -1,0 +1,704 @@
+{
+    "data": {
+        "assets": [
+            {
+                "id": "984b85a8-7d7b-4773-9a86-17ae01f48206",
+                "commitId": "4ba7f86e-07d4-49ce-9583-bd28770dda61",
+                "typeId": "b101d3f9-a9e2-4d06-aa3a-110aaa04cef0",
+                "applicationId": "fab12ab1-2c97-4645-ab3a-5ae9cdf139c9-001cbc9b",
+                "roomId": "32f0ca17-88e2-48f5-9424-f10b20596baf",
+                "properties": [
+                    {
+                        "key": "Area",
+                        "metadata": null,
+                        "value": "13,8181699974496"
+                    },
+                    {
+                        "key": "Assembly Code",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Assembly Description",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Code Name",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Default Elevation",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Demo",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Depth",
+                        "metadata": null,
+                        "value": "1,47637795275591"
+                    },
+                    {
+                        "key": "Edited by",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Elevation from Level",
+                        "metadata": null,
+                        "value": "-4,44089209850063E-16"
+                    },
+                    {
+                        "key": "Existing",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Export to IFC",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Export Type to IFC",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Family",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Family and Type",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Family Name",
+                        "metadata": null,
+                        "value": "PWA_FURN_STOR_Filing Cabinet 2-5 high"
+                    },
+                    {
+                        "key": "Height",
+                        "metadata": null,
+                        "value": "3,28083989501312"
+                    },
+                    {
+                        "key": "Host",
+                        "metadata": null,
+                        "value": "Level : LEVEL 00 FFL"
+                    },
+                    {
+                        "key": "IfcGUID",
+                        "metadata": null,
+                        "value": "3wiIgnB9T6HQiwMkdDxOLI"
+                    },
+                    {
+                        "key": "Length",
+                        "metadata": null,
+                        "value": "3,28083989501312"
+                    },
+                    {
+                        "key": "Level",
+                        "metadata": null,
+                        "value": "LEVEL 00 FFL"
+                    },
+                    {
+                        "key": "Mark",
+                        "metadata": null,
+                        "value": "CWK"
+                    },
+                    {
+                        "key": "Moves With Nearby Elements",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "New",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Offset from Host",
+                        "metadata": null,
+                        "value": "-4,44089209850063E-16"
+                    },
+                    {
+                        "key": "OmniClass Number",
+                        "metadata": null,
+                        "value": "23.40.20.00"
+                    },
+                    {
+                        "key": "OmniClass Title",
+                        "metadata": null,
+                        "value": "General Furniture and Specialties"
+                    },
+                    {
+                        "key": "Phase Created",
+                        "metadata": null,
+                        "value": "New Construction"
+                    },
+                    {
+                        "key": "Plan Lines - 2 high",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Plan Lines - 3 high",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Plan Lines - 4 high",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Plan Lines - 5 high",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Plan Lines - Bins",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Plan Lines - Plants",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Relocated",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Type",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Type Id",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Type IfcGUID",
+                        "metadata": null,
+                        "value": "2xcEHVeb5AQv6LFDyP1s8c"
+                    },
+                    {
+                        "key": "Type Mark",
+                        "metadata": null,
+                        "value": "CSWK"
+                    },
+                    {
+                        "key": "Type Name",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Volume",
+                        "metadata": null,
+                        "value": "9,13767001418363"
+                    },
+                    {
+                        "key": "Workset",
+                        "metadata": null,
+                        "value": "637"
+                    },
+                    {
+                        "key": "zUTIL_Authors_PW",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "zUTIL_FirstReleaseDate_PW",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "zUTIL_ModifiedBy_PW",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "zUTIL_ModifiedDate_PW",
+                        "metadata": null,
+                        "value": ""
+                    }
+                ],
+                "location": null,
+                "speckleReference": null
+            },
+            {
+                "id": "6a2ea699-ac45-4420-adb0-97bf9df57c0f",
+                "commitId": "4ba7f86e-07d4-49ce-9583-bd28770dda61",
+                "typeId": "a763eb32-b59b-42bc-805b-f24ac5e4282a",
+                "applicationId": "fab12ab1-2c97-4645-ab3a-5ae9cdf139c9-001cbc9c",
+                "roomId": "32f0ca17-88e2-48f5-9424-f10b20596baf",
+                "properties": [
+                    {
+                        "key": "Area",
+                        "metadata": null,
+                        "value": "11,6644107249391"
+                    },
+                    {
+                        "key": "Assembly Code",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Assembly Description",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Cabinet Material",
+                        "metadata": null,
+                        "value": "PW Misc- Cabinet - Maple - Solid Natural (Flat)"
+                    },
+                    {
+                        "key": "Coat Rod Diameter",
+                        "metadata": null,
+                        "value": "0,10498687664042"
+                    },
+                    {
+                        "key": "Coat Rod Offset - Elevation",
+                        "metadata": null,
+                        "value": "0,249343832020997"
+                    },
+                    {
+                        "key": "Coat Rod Offset - Front",
+                        "metadata": null,
+                        "value": "0,328083989501312"
+                    },
+                    {
+                        "key": "Code Name",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Default Elevation",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Depth",
+                        "metadata": null,
+                        "value": "1,47637795275591"
+                    },
+                    {
+                        "key": "Edited by",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Elevation from Level",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Export to IFC",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Export Type to IFC",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Family",
+                        "metadata": null,
+                        "value": "1800mm H x 350mm D"
+                    },
+                    {
+                        "key": "Family and Type",
+                        "metadata": null,
+                        "value": "1800mm H x 350mm D"
+                    },
+                    {
+                        "key": "Family Name",
+                        "metadata": null,
+                        "value": "PWA_CSWK_WrdbShelfCoatRod_TypeA"
+                    },
+                    {
+                        "key": "Hardware Material",
+                        "metadata": null,
+                        "value": "PW Metal - Stainless Steel (Brushed Finish)"
+                    },
+                    {
+                        "key": "Height",
+                        "metadata": null,
+                        "value": "5,90551181102362"
+                    },
+                    {
+                        "key": "Host",
+                        "metadata": null,
+                        "value": "Level : LEVEL 00 FFL"
+                    },
+                    {
+                        "key": "IfcGUID",
+                        "metadata": null,
+                        "value": "3wiIgnB9T6HQiwMkdDxOLL"
+                    },
+                    {
+                        "key": "Ledger Height",
+                        "metadata": null,
+                        "value": "0,328083989501312"
+                    },
+                    {
+                        "key": "Level",
+                        "metadata": null,
+                        "value": "LEVEL 00 FFL"
+                    },
+                    {
+                        "key": "Mark",
+                        "metadata": null,
+                        "value": "CWK"
+                    },
+                    {
+                        "key": "Moves With Nearby Elements",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Offset from Host",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "OmniClass Number",
+                        "metadata": null,
+                        "value": "23.40.35.14.14"
+                    },
+                    {
+                        "key": "OmniClass Title",
+                        "metadata": null,
+                        "value": "Custom-Fabricated Casework"
+                    },
+                    {
+                        "key": "Phase Created",
+                        "metadata": null,
+                        "value": "New Construction"
+                    },
+                    {
+                        "key": "Shelf Depth",
+                        "metadata": null,
+                        "value": "1,47637795275591"
+                    },
+                    {
+                        "key": "Shelf Height",
+                        "metadata": null,
+                        "value": "5,90551181102362"
+                    },
+                    {
+                        "key": "Shelf Overhang",
+                        "metadata": null,
+                        "value": "0,0656167979002625"
+                    },
+                    {
+                        "key": "Type",
+                        "metadata": null,
+                        "value": "1800mm H x 350mm D"
+                    },
+                    {
+                        "key": "Type Id",
+                        "metadata": null,
+                        "value": "1800mm H x 350mm D"
+                    },
+                    {
+                        "key": "Type IfcGUID",
+                        "metadata": null,
+                        "value": "2xcEHVeb5AQv6LFDyP1mtN"
+                    },
+                    {
+                        "key": "Type Name",
+                        "metadata": null,
+                        "value": "1800mm H x 350mm D"
+                    },
+                    {
+                        "key": "Volume",
+                        "metadata": null,
+                        "value": "0,661449046529867"
+                    },
+                    {
+                        "key": "Width",
+                        "metadata": null,
+                        "value": "5,01106154930534"
+                    },
+                    {
+                        "key": "Workset",
+                        "metadata": null,
+                        "value": "637"
+                    },
+                    {
+                        "key": "zUTIL_Authors_PW",
+                        "metadata": null,
+                        "value": "ShaferC,HussainiM"
+                    },
+                    {
+                        "key": "zUTIL_FirstReleaseDate_PW",
+                        "metadata": null,
+                        "value": "2016-04-01"
+                    },
+                    {
+                        "key": "zUTIL_ModifiedBy_PW",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "zUTIL_ModifiedDate_PW",
+                        "metadata": null,
+                        "value": ""
+                    }
+                ],
+                "location": null,
+                "speckleReference": null
+            },
+            {
+                "id": "e3ec4d4c-f931-4da5-802a-c627021581c9",
+                "commitId": "4ba7f86e-07d4-49ce-9583-bd28770dda61",
+                "typeId": "b101d3f9-a9e2-4d06-aa3a-110aaa04cef0",
+                "applicationId": "fab12ab1-2c97-4645-ab3a-5ae9cdf139c9-001cbc9e",
+                "roomId": "32f0ca17-88e2-48f5-9424-f10b20596baf",
+                "properties": [
+                    {
+                        "key": "Area",
+                        "metadata": null,
+                        "value": "13,8181699974496"
+                    },
+                    {
+                        "key": "Assembly Code",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Assembly Description",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Code Name",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Default Elevation",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Demo",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Depth",
+                        "metadata": null,
+                        "value": "1,47637795275591"
+                    },
+                    {
+                        "key": "Edited by",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "Elevation from Level",
+                        "metadata": null,
+                        "value": "-4,44089209850063E-16"
+                    },
+                    {
+                        "key": "Existing",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Export to IFC",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Export Type to IFC",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Family",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Family and Type",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Family Name",
+                        "metadata": null,
+                        "value": "PWA_FURN_STOR_Filing Cabinet 2-5 high"
+                    },
+                    {
+                        "key": "Height",
+                        "metadata": null,
+                        "value": "3,28083989501312"
+                    },
+                    {
+                        "key": "Host",
+                        "metadata": null,
+                        "value": "Level : LEVEL 00 FFL"
+                    },
+                    {
+                        "key": "IfcGUID",
+                        "metadata": null,
+                        "value": "3wiIgnB9T6HQiwMkdDxOLN"
+                    },
+                    {
+                        "key": "Length",
+                        "metadata": null,
+                        "value": "3,28083989501312"
+                    },
+                    {
+                        "key": "Level",
+                        "metadata": null,
+                        "value": "LEVEL 00 FFL"
+                    },
+                    {
+                        "key": "Mark",
+                        "metadata": null,
+                        "value": "CWK"
+                    },
+                    {
+                        "key": "Moves With Nearby Elements",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "New",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Offset from Host",
+                        "metadata": null,
+                        "value": "-4,44089209850063E-16"
+                    },
+                    {
+                        "key": "OmniClass Number",
+                        "metadata": null,
+                        "value": "23.40.20.00"
+                    },
+                    {
+                        "key": "OmniClass Title",
+                        "metadata": null,
+                        "value": "General Furniture and Specialties"
+                    },
+                    {
+                        "key": "Phase Created",
+                        "metadata": null,
+                        "value": "New Construction"
+                    },
+                    {
+                        "key": "Plan Lines - 2 high",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Plan Lines - 3 high",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Plan Lines - 4 high",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Plan Lines - 5 high",
+                        "metadata": null,
+                        "value": "1"
+                    },
+                    {
+                        "key": "Plan Lines - Bins",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Plan Lines - Plants",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Relocated",
+                        "metadata": null,
+                        "value": "0"
+                    },
+                    {
+                        "key": "Type",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Type Id",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Type IfcGUID",
+                        "metadata": null,
+                        "value": "2xcEHVeb5AQv6LFDyP1s8c"
+                    },
+                    {
+                        "key": "Type Mark",
+                        "metadata": null,
+                        "value": "CSWK"
+                    },
+                    {
+                        "key": "Type Name",
+                        "metadata": null,
+                        "value": "_Filing Cabinet - 5 High Plain"
+                    },
+                    {
+                        "key": "Volume",
+                        "metadata": null,
+                        "value": "9,13767001418363"
+                    },
+                    {
+                        "key": "Workset",
+                        "metadata": null,
+                        "value": "637"
+                    },
+                    {
+                        "key": "zUTIL_Authors_PW",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "zUTIL_FirstReleaseDate_PW",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "zUTIL_ModifiedBy_PW",
+                        "metadata": null,
+                        "value": ""
+                    },
+                    {
+                        "key": "zUTIL_ModifiedDate_PW",
+                        "metadata": null,
+                        "value": ""
+                    }
+                ],
+                "location": null,
+                "speckleReference": null
+            }
+        ]
+    }
+}
