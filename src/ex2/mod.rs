@@ -7,7 +7,7 @@ mod generic_data_types;
 mod opt2;
 mod read_file;
 
-pub fn run_ex2(){
+pub fn main(){
     // formatting::run();
     // literals::run();
     // ref_borrow_slices::run();
@@ -15,5 +15,6 @@ pub fn run_ex2(){
     // enum2::run();
     // generic_data_types::run()
     // opt2::run();
-    read_file::run();
+    // read_file::run();
+    println!("ex2 finished running");
 }
